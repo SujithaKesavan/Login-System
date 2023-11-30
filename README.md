@@ -10,3 +10,10 @@ Welcome to the Java User Login System repository! This project provides a straig
 3.User Registration: Simple user registration process to create new accounts.
 
 4.Session Management: Basic session handling to maintain user state.
+
+**Getting Started:**
+
+**Clone the repository:**
+
+git clone https://github.com/your-username/java-user-login.git
+
