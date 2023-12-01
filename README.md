@@ -17,3 +17,10 @@ Welcome to the Java User Login System repository! This project provides a straig
 
         cd Login-System
 
+   **3.Compile the Java files:**
+
+        javac *.java
+
+  **4.Run the application:**
+
+        java Main
