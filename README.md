@@ -22,4 +22,8 @@ Welcome to the Java User Login System repository! This project provides a straig
    **1.Login:** Enter your username and password to access the system.
 
    **2.Registration:** If you're a new user, click on the registration option to create an account.
+
+ # Contributing:
+
+We welcome contributions! If you have ideas for improvements or new features, please open an issue or submit a pull request. Be sure to follow our contribution guidelines.
   
