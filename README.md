@@ -9,4 +9,6 @@ Welcome to the Java User Login System repository! This project provides a straig
   * **Session Management**: Basic session handling to maintain user state.
 
 # Getting Started
+  **1.Clone the repository:**
+       [git clone] (https://github.com/SujithaKesavan/Login-System.git)
 
