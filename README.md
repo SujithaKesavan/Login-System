@@ -29,6 +29,6 @@ Welcome to the Java User Login System repository! This project provides a straig
 
  # License:
  
-    This project is licensed under the MIT License - see the LICENSE file for details.
-    Feel free to explore, use, and contribute to make this simple user login system even better!
-  
+   This project is licensed under the MIT License - see the LICENSE file for details.
+
+   Feel free to explore, use, and contribute to make this simple user login system even better!
