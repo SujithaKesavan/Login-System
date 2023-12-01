@@ -13,16 +13,7 @@ Welcome to the Java User Login System repository! This project provides a straig
   
        git clone https://github.com/SujithaKesavan/Login-System.git
 
-  **2.Navigate to the project directory:** 
+   **2.Open the project in NetBeans IDE.**
 
-        cd Login-System
-
-   **3.Compile the Java files:**
-
-        javac *.java
-
-  **4.Run the application:**
-
-        java Main
-
-   5.Access the application in your browser at **'http://localhost:8080'**.    
+  **3.Run the project to launch the GUI application.**
+  
