@@ -10,5 +10,10 @@ Welcome to the Java User Login System repository! This project provides a straig
 
 # Getting Started
   **1.Clone the repository:**
-       [git clone] (https://github.com/SujithaKesavan/Login-System.git)
+  
+       git clone https://github.com/SujithaKesavan/Login-System.git
+
+  **2.Navigate to the project directory:** 
+
+        cd Login-System
 
