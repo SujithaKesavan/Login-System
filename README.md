@@ -3,10 +3,10 @@ Welcome to the Java User Login System repository! This project provides a straig
 
 # Features
 
-  * User Authentication: Secure user login functionality to protect user credentials.
-  * Password Hashing: Passwords are securely hashed before storage for enhanced security.
-  * User Registration: Simple user registration process to create new accounts.
-  * Session Management: Basic session handling to maintain user state.
+  * **User Authentication:** Secure user login functionality to protect user credentials.
+  *** Password Hashing**: Passwords are securely hashed before storage for enhanced security.
+  * **User Registration:** Simple user registration process to create new accounts.
+  * **Session Management**: Basic session handling to maintain user state.
 
 # Getting Started
 
